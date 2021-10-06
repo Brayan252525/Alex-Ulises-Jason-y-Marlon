@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  },
+  "name": "notejs",
+  "version": "1.0.0",
+  "description": "un proyecto de notejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index2.js",
+    "desarrollo": "node index2.js"
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "keywords": [
+    "index"
+  ]
+}
